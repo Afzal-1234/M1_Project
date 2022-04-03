@@ -9,3 +9,6 @@ With this voting system, users can enter their preferences and the total votes a
 
 Note:In this project UserName:-Admin
                      Password:-admiN
+
+
+
